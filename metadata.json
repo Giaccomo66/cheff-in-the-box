@@ -1,0 +1,7 @@
+{
+  "name": "ChefInBox - Ricette Intelligenti",
+  "description": "Un'app moderna che suggerisce ricette creative basate sugli ingredienti che hai in dispensa, alimentata da intelligenza artificiale.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
